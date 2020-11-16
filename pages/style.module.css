@@ -195,3 +195,34 @@ body {
     monospace;
   padding: 20px;
 }
+
+.variableStyle {
+  color: #9dff00
+}
+
+.importStyle {
+  color: #44ff7f;
+  font-style: italic;
+}
+
+.returnStyle {
+  color: #0026ff;
+  font-style: italic;
+}
+
+.hooksStyle {
+  color: #e13fa3;
+}
+
+.commentStyle {
+  font-style: italic;
+  color: #b8b2ab;
+}
+
+.jsonURL {
+  color: #0073d8;
+}
+
+.jsonString {
+  color: #149400;
+}
